@@ -1,4 +1,4 @@
-# Comparateur de prix EXCUTION https://www.youtube.com/watch?v=QLwBLKN4aA8
+# SCRAPER de prix EXCUTION https://www.youtube.com/watch?v=QLwBLKN4aA8
 
 Outil de comparaison de prix utilisant Selenium pour interroger plusieurs sites marchands, avec une interface graphique Tkinter.
 
